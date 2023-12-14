@@ -10,12 +10,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2023</b></summary>
 
+* **Achanccaray, P.**, Gerke, M., Wesche, L., Hoyer, S., Thiele, K., Knufinke, U., and Krafczyk, C.: [*On the assessment of instance segmentation for the automatic detection of specific constructions from very high resolution airborne imagery*](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1303/2023/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 1303–1309, DOI: 10.5194/isprs-archives-XLVIII-1-W2-2023-1303-2023, 2023
+
 * Wesche, L., **Achanccaray Diaz, P. M.**, Hoyer, S., Knufinke, U., Gerke, M., Krafczyk, C., & Thiele, K. (2023). [*Dataset of german steel system halls from the period of high modernism [Data set]*](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00072870), DOI: 10.24355/dbbs.084-202305261242-0
 
 * Leonhard Wesche, Sebastian Hoyer, Ulrich Knufinke, **Pedro Achanccaray**, Christina Krafczyk, Markus Gerke and Klaus Thiele. [*Technologien für die Baudenkmalpflege: Erfassung und Analyse von Systemhallen der Hochmoderne*](https://denkmalpflege.niedersachsen.de/aktuelles/publikationen/berichte-zur-denkmalpflege-in-niedersachsen-2-2023-227534.html), in: Berichte zur Denkmalpflege in Niedersachsen 43 (2023), 2, pp. 61-65
 
-* Wesche, L., **Achanccaray, P.**, Hoyer, S. (2023). [Serielle Gebäude und wie man sie findet - Eine Methodik der Künstlichen Intelligenz zur Gebäudeerfassung](https://www.degruyter.com/document/isbn/9783868597950/html). In Gisbertz, O., Escherich, M., Hoyer, S., Putz, A., Weber, C. & DFG-Netzwerk Bauforschung Jüngere Baubestände 1945+ (Ed.). _Reallabor Nachkriegsmoderne: Zum Umgang mit jüngeren Denkmalen_. JOVIS Verlag GmbH.
-
+* Wesche, L., **Achanccaray, P.**, Hoyer, S. (2023). [Serielle Gebäude und wie man sie findet - Eine Methodik der Künstlichen Intelligenz zur Gebäudeerfassung](https://www.degruyter.com/document/isbn/9783868597950/html). In Gisbertz, O., Escherich, M., Hoyer, S., Putz, A., Weber, C. & DFG-Netzwerk Bauforschung Jüngere Baubestände 1945+ (Ed.). _Reallabor Nachkriegsmoderne: Zum Umgang mit jüngeren Denkmalen_. JOVIS Verlag GmbH
 
 * **Achanccaray, P.**, Gerke, M., Wesche, L., Hoyer, S., Thiele, K., Knufinke, U., Krafczyk, C. [*Automatic Detection of Specific Constructions on a Large Scale Using Deep Learning in Very High Resolution Airborne Imagery*](https://link.springer.com/article/10.1007/s41064-023-00237-z). PFG (2023), DOI:10.1007/s41064-023-00237-z
 
