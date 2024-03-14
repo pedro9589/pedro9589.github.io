@@ -7,10 +7,22 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gfxEXdAAAAAJ&hl=en).
 
+
+<details markdown=1>
+<summary><b>2024</b></summary>
+
+* A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024.
+
+* M. Gerke, **P. M. Achanccaray Diaz**, S. Fekete, M. Figge, N. Fohrer, S. Giutronich, P. Keldenich, S. Lutz, M. Perk, A. Reinhardt, C. Richter, C. Rieck, B. Riedel, T. Riedemann, F. Saba, K. Schrader, A. Schröter, D. Szafranski, A. Taghavi, P. Wagner. [*Extremwettermanagement mit digitalen Multiskalen-Methoden: Das EXDIMUM-Projekt*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/19_dgpf2024_Gerke_et_al.pdf),DGPF-Jahrestagung, 2024.
+
+
+</details>
+<br />
+
+
 <details markdown=1>
 <summary><b>2023</b></summary>
 
-* De Arriba López, V., Maboudi, M., **Achanccaray, P.**, Gerke, M. [*Automatic non-destructive UAV-based structural health monitoring of steel container cranes*](https://link.springer.com/article/10.1007/s12518-023-00542-7). Applied Geomatics (2023), DOI: 10.1007/s12518-023-00542-7
 
 * **Achanccaray, P.**, Gerke, M., Wesche, L., Hoyer, S., Thiele, K., Knufinke, U., and Krafczyk, C.: [*On the assessment of instance segmentation for the automatic detection of specific constructions from very high resolution airborne imagery*](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1303/2023/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W2-2023, 1303–1309, DOI: 10.5194/isprs-archives-XLVIII-1-W2-2023-1303-2023, 2023
 
