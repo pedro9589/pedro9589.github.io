@@ -11,6 +11,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2024</b></summary>
 
+* Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0
+
 * A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024.
 
 * M. Gerke, **P. M. Achanccaray Diaz**, S. Fekete, M. Figge, N. Fohrer, S. Giutronich, P. Keldenich, S. Lutz, M. Perk, A. Reinhardt, C. Richter, C. Rieck, B. Riedel, T. Riedemann, F. Saba, K. Schrader, A. Schröter, D. Szafranski, A. Taghavi, P. Wagner. [*Extremwettermanagement mit digitalen Multiskalen-Methoden: Das EXDIMUM-Projekt*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/19_dgpf2024_Gerke_et_al.pdf),DGPF-Jahrestagung, 2024.
