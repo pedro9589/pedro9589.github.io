@@ -11,6 +11,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2024</b></summary>
 
+* Nyandwi, E., Gerke, M. & **Achanccaray, P**. [*Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of Rwanda*](https://link.springer.com/article/10.1007/s41064-024-00297-9). PFG (2024), DOI:10.1007/s41064-024-00297-9
+
 * Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0
 
 * A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024.
