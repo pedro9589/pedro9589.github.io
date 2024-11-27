@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gfxEXdAAAAAJ&hl=en).
 
 
-<details markdown=1 open>
+<details markdown=1>
 <summary><b>2024</b></summary>
 
 * Harb, S., **Achanccaray, P.**, Maboudi, M., & Gerke, M. (2024). [*Multi-temporal crack segmentation in concrete structure using deep learning approaches*](https://arxiv.org/abs/2411.04620). arXiv preprint arXiv:2411.04620
