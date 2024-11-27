@@ -23,9 +23,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
 
-<details open>
+<details markdown=1>
 <summary><b>2023</b></summary>
 
 
@@ -41,9 +42,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-
-<details open>
+<details markdown=1>
 <summary><b>2022</b></summary>
 
 * **Achanccaray, Pedro**, Gerke, Markus, Hoyer, Sebastian, Knufinke, Ulrich, Krafczyk, Christina, Thiele, Klaus and Wesche, Leonhard. [*"Deep Learning in der Denkmal-Inventarisation: Zur automatisierten luftbildbasierten Erfassung von Systembauwerken"*](https://www.degruyter.com/document/doi/10.1515/DKP-2022-2013/pdf) Die Denkmalpflege, 80, no. 2, 2022, pp. 162-16. DOI:10.1515/DKP-2022-2013
@@ -51,17 +52,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Ramirez, W., **Achanccaray, P.** & Pacheco, M.A. [*A comparative study of Deep Learning architectures for Classification of Natural and Human-made Sea Events in SAR images*](https://link.springer.com/article/10.1007/s44163-022-00017-5). Discov Artif Intell 2, 1 (2022). DOI:10.1007/s44163-022-00017-5
 
 </details>
+<br />
 
-<details open>
+<details markdown=1>
 <summary><b>2021</b></summary>
 
 * Bento, V., Kohler, M., **Diaz, P.** et al. [*Improving deep learning performance by using Explainable Artificial Intelligence (XAI) approaches*](https://link.springer.com/article/10.1007/s44163-021-00008-y). Discov Artif Intell 1, 9 (2021). DOI:10.1007/s44163-021-00008-y
 
 
 </details>
+<br />
 
-
-<details open>
+<details markdown=1>
 <summary><b>2020</b></summary>
 
 * Sanches, I. D., Feitosa, R. Q., Montibeller, B., **Achanccaray Diaz, P. M.**, Luiz, A. J. B., Soares, M. D., Prudente, V. H. R., Vieira, D. C., Maurano, L. E. P., Happ, P. N., Chamorro, J., and Oldoni, L. V.: [*First results of the LEM benchmark database for agricultural applications*](https://isprs-archives.copernicus.org/articles/XLIII-B5-2020/251/2020/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B5-2020, 251–256, DOI:10.5194/isprs-archives-XLIII-B5-2020-251-2020, 2020
@@ -70,16 +72,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-<details open>
+<details markdown=1>
 <summary><b>2019</b></summary>
 
 * Sothe, Camile, Cláudia Maria De Almeida, Marcos Benedito Schimalski, Veraldo Liesenberg, and **Pedro Achanccaray Diaz**. [*Automatic tuning of segmentation parameters for tree crown delineation with VHR imagery*](https://www.tandfonline.com/doi/abs/10.1080/10106049.2019.1690056?journalCode=tgei20). Geocarto International (2019): 1-19, DOI:10.1080/10106049.2019.1690056
 
 
 </details>
+<br />
 
-<details open>
+<details markdown=1>
 <summary><b>2018</b></summary>
 
 * Sanches, I. D., R. Q. Feitosa, **P. Achanccaray**, B. Montibeller, A. J. B. Luiz, M. D. Soares, V. H. R. Prudente, D. C. Vieira, and L. E. P. Maurano. [*LEM benchmark database for tropical agricultural remote sensing application*](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/). International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences 42, no. 1 (2018), DOI: 10.5194/isprs-archives-XLII-1-387-2018
@@ -87,9 +91,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-
-<details open>
+<details markdown=1>
 <summary><b>2017</b></summary>
 
 * Cué, L. E.; Bermudez, J. D.; **Achanccaray, P.**; Sanches, I. D.; Happ, P. N.; Feitosa, R. Q. [*A comparative analysis of deep learning techniques for crop type recognition in temperate and tropical regions from multitemporal SAR image sequences*](https://www.researchgate.net/publication/328761453_A_COMPARATIVE_ANALYSIS_OF_DEEP_LEARNING_TECHNIQUES_FOR_CROP_TYPE_RECOGNITION_IN_TEMPERATE_AND_TROPICAL_REGIONS_FROM_MULTITEMPORAL_SAR_IMAGE_SEQUENCES). Anais do XXVII Congresso Brasileiro de Cartografia e XXVI Exposicarta 6 a 9 de novembro de 2017, SBC, Rio de Janeiro – RJ, p. 730-734
@@ -100,8 +104,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-<details open>
+<details markdown=1>
 <summary><b>2016</b></summary>
 
 * Vega, Pedro J. Soto; Quirita, Victor A. Ayma; **Achanccaray, Pedro M.**; Tanscheit, Ricardo; Vellasco, Marley. [*A fuzzy inference system for multispectral image classification*](https://ieeexplore.ieee.org/document/7836268). In: 2016 IEEE ANDESCON, 2016, Arequipa. 2016 IEEE ANDESCON, 2016. p. 1-4, DOI:10.1109/ANDESCON.2016.7836268
@@ -111,9 +116,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-
-<details open>
+<details markdown=1>
 <summary><b>2015</b></summary>
 
 * Jimenez, Luis Ignacio; Plaza, Antonio; Ayma, Victor Andres; **Achanccaray, Pedro**; Costa, Gilson A.O.P.; Queiroz Feitosa, Raul. [*Segmentation as postprocessing for hyperspectral image classification*](https://ieeexplore.ieee.org/document/7313746). In: IEEE EUROCON 2015 International Conference on Computer as a Tool (EUROCON), 2015, Salamanca, Spain. p. 1-4, DOI:10.1109/EUROCON.2015.7313746
@@ -123,11 +128,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 </details>
+<br />
 
-<details open>
+<details markdown=1>
 <summary><b>2014</b></summary>
 
 * **Achanccaray, P.**; Ayma, V. A.; Jimenez, L.; Garcia, S.; Happ, P.; Feitosa, R. Q.; Plaza, A., [*A free software tool for Automatic Tuning of Segmentation Parameters*](https://www.researchgate.net/publication/278963315_A_free_software_tool_for_Automatic_Tuning_of_Segmentation_Parameters). South-Eastern European Journal of Earth Observation and Geomatics, vol. 3, pp. 707-712, 2014
 
 
 </details>
+<br />
