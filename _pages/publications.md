@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details open>
 <summary><b>2024</b></summary>
 
-* Harb, S., **Achanccaray, P.**, Maboudi, M., & Gerke, M. (2024). [*Multi-temporal crack segmentation in concrete structure using deep learning approaches*](https://arxiv.org/abs/2411.04620). arXiv preprint arXiv:2411.04620.
+* Harb, S., **Achanccaray, P.**, Maboudi, M., & Gerke, M. (2024). [*Multi-temporal crack segmentation in concrete structure using deep learning approaches*](https://arxiv.org/abs/2411.04620). arXiv preprint arXiv:2411.04620
 
 * Nyandwi, E., Gerke, M. & **Achanccaray, P**. [*Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of Rwanda*](https://link.springer.com/article/10.1007/s41064-024-00297-9). PFG (2024), DOI:10.1007/s41064-024-00297-9
 
@@ -20,6 +20,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024.
 
 * M. Gerke, **P. M. Achanccaray Diaz**, S. Fekete, M. Figge, N. Fohrer, S. Giutronich, P. Keldenich, S. Lutz, M. Perk, A. Reinhardt, C. Richter, C. Rieck, B. Riedel, T. Riedemann, F. Saba, K. Schrader, A. Schröter, D. Szafranski, A. Taghavi, P. Wagner. [*Extremwettermanagement mit digitalen Multiskalen-Methoden: Das EXDIMUM-Projekt*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/19_dgpf2024_Gerke_et_al.pdf),DGPF-Jahrestagung, 2024.
+
 
 </details>
 
@@ -36,6 +37,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Wesche, L., **Achanccaray, P.**, Hoyer, S. (2023). [Serielle Gebäude und wie man sie findet - Eine Methodik der Künstlichen Intelligenz zur Gebäudeerfassung](https://www.degruyter.com/document/isbn/9783868597950/html). In Gisbertz, O., Escherich, M., Hoyer, S., Putz, A., Weber, C. & DFG-Netzwerk Bauforschung Jüngere Baubestände 1945+ (Ed.). _Reallabor Nachkriegsmoderne: Zum Umgang mit jüngeren Denkmalen_. JOVIS Verlag GmbH
 
 * **Achanccaray, P.**, Gerke, M., Wesche, L., Hoyer, S., Thiele, K., Knufinke, U., Krafczyk, C. [*Automatic Detection of Specific Constructions on a Large Scale Using Deep Learning in Very High Resolution Airborne Imagery*](https://link.springer.com/article/10.1007/s41064-023-00237-z). Journal of Photogrammetry, Remote Sensing and Geoinformation science – PFG 91, pp. 189-209 (2023), DOI:10.1007/s41064-023-00237-z
+
 
 </details>
 
@@ -54,6 +56,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * Bento, V., Kohler, M., **Diaz, P.** et al. [*Improving deep learning performance by using Explainable Artificial Intelligence (XAI) approaches*](https://link.springer.com/article/10.1007/s44163-021-00008-y). Discov Artif Intell 1, 9 (2021). DOI:10.1007/s44163-021-00008-y
 
+
 </details>
 
 
@@ -64,12 +67,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Ramirez, W., **Achanccaray, P.**, Mendoza, L. F., and Pacheco, M. A. C.: [*Deep convolutional neural networks for weed detection in agricultural crops using optical aerial images*](https://ieeexplore.ieee.org/document/9165562), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLII-3/W12-2020, 551–555, DOI:10.5194/isprs-archives-XLII-3-W12-2020-551-2020, 2020
 * Soares, Marinalva Dias, Luciano Vieira Dutra, Gilson Alexandre Ostwald Pedro da Costa, Raul Queiroz Feitosa, Rogério Galante Negri, and **Pedro Diaz**. [*A Meta-Methodology for Improving Land Cover and Land Use Classification with SAR Imagery*](https://www.mdpi.com/2072-4292/12/6/961). Remote Sensing 12, no. 6 (2020): 961, DOI:10.3390/rs12060961
 
+
 </details>
 
 <details open>
 <summary><b>2019</b></summary>
 
 * Sothe, Camile, Cláudia Maria De Almeida, Marcos Benedito Schimalski, Veraldo Liesenberg, and **Pedro Achanccaray Diaz**. [*Automatic tuning of segmentation parameters for tree crown delineation with VHR imagery*](https://www.tandfonline.com/doi/abs/10.1080/10106049.2019.1690056?journalCode=tgei20). Geocarto International (2019): 1-19, DOI:10.1080/10106049.2019.1690056
+
 
 </details>
 
@@ -78,6 +83,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * Sanches, I. D., R. Q. Feitosa, **P. Achanccaray**, B. Montibeller, A. J. B. Luiz, M. D. Soares, V. H. R. Prudente, D. C. Vieira, and L. E. P. Maurano. [*LEM benchmark database for tropical agricultural remote sensing application*](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/). International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences 42, no. 1 (2018), DOI: 10.5194/isprs-archives-XLII-1-387-2018
 * Sanches, Ieda Del’Arco, Raul Queiroz Feitosa, **Pedro Marco Achanccaray Diaz**, Marinalva Dias Soares, Alfredo José Barreto Luiz, Bruno Schultz, and Luis Eduardo Pinheiro Maurano. [*Campo verde database: Seeking to improve agricultural remote sensing of tropical areas*](https://ieeexplore.ieee.org/document/8263605). IEEE Geoscience and Remote Sensing Letters 15, no. 3 (2018): 369-373, DOI: 10.1109/LGRS.2017.2789120
+
 
 </details>
 
@@ -91,6 +97,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * **Achanccaray, P.**; Feitosa, R. Q.; Rottensteiner, F.; Sanches, I. A.; Heipke, C. [*Spatial-temporal conditional random field based model for crop recognition in tropical regions*](https://ieeexplore.ieee.org/document/8127631). In: IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2017, Fort Worth. IGARSS 2017 Proceedings, 2017. p. 3007-3010, DOI: 10.1109/IGARSS.2017.8127631
 * **Achanccaray, P.**; Feitosa, R. Q.; Rottensteiner, F.; Sanches, I. A.; Heipke, C. [*Spatio-temporal Conditional Random Fields for recognition of sub-tropical crop types from multi-temporal images*](https://proceedings.science/sbsr/trabalhos/spatio-temporal-conditional-random-fields-for-recognition-of-sub-tropical-crop-t). In: XVIII Simpósio Brasileiro de Sensoriamento Remoto SBSR, 2017, Santos. p. 2539-2546
 
+
 </details>
 
 <details open>
@@ -100,6 +107,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Happ, P. N.; Ferreira, R. S.; Costa, G. A. O. P.; Feitosa, R. Q.; Bentes, C.; Farias, R.; **Achanccaray, P. M.** [*InterSeg: A Distributed Image Segmentation Tool*](https://proceedings.utwente.nl/450/). In: GEOBIA 2016: Solutions and Synergies, Enschede. Netherlands. University of Twente Faculty of Geo-Information and Earth Observation, 2016, DOI: 10.3990/2.450
 * Ayma Quirita, Victor Andres; **Achanccaray Diaz, Pedro**; Feitosa, Raul Q.; Happ, Patrick N.; Costa, Gilson A. O. P.; Klinger, Tobias; Heipke, Christian. [*Metaheuristics for Supervised Parameter Tuning of Multiresolution Segmentation*](https://ieeexplore.ieee.org/document/7519028). IEEE Geoscience and Remote Sensing Letters (Print), v. 13(9), p. 1364-1368, 2016, DOI:10.1109/LGRS.2016.2586499
 * **Diaz, P. M. A.**, Feitosa, R. Q., Sanches, I. D., and Costa, G. A. O. P.: [*A Method to estimate temporal interaction in a conditional random field based approach for crop recognition*](https://isprs-archives.copernicus.org/articles/XLI-B7/205/2016/isprs-archives-XLI-B7-205-2016-relations.html), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLI-B7, 205-211, DOI:10.5194/isprs-archives-XLI-B7-205-2016, 2016
+
 
 </details>
 
@@ -112,11 +120,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Jimenez, L. I.; Ayma, V. A.; **Achanccaray, P.**; Costa, G. A. O. P.; Feitosa, R. Q.; Plaza, A. [*Segmentation as post processing for hyperspectral image classification*](https://ieeexplore.ieee.org/document/7326632). In: International Geoscience and Remote Sensing Symposium 2015 (IGARSS 2015), Milan, Italy. p. 3723-3726; DOI:10.1109/IGARSS.2015.7326632
 * **Achanccaray, P.**; Ayma, V. A.; Jimenez, L. I.; Garcia, S. B.; Happ, P. N.; Feitosa, R. Q.; Plaza, A. *SPT 3.0: A free software for automatic segmentation parameters tuning*. In: Simposio Brasileiro De Sensoriamento Remoto, 17. (SBSR), 2015, João Pessoa, PB. Anais do 17mo Simpósio Brasileiro de Sensoriamento Remoto, João Pessoa, PB: INPE, 2015. p. 5578-5581
 
+
 </details>
 
 <details open>
 <summary><b>2014</b></summary>
 
 * **Achanccaray, P.**; Ayma, V. A.; Jimenez, L.; Garcia, S.; Happ, P.; Feitosa, R. Q.; Plaza, A., [*A free software tool for Automatic Tuning of Segmentation Parameters*](https://www.researchgate.net/publication/278963315_A_free_software_tool_for_Automatic_Tuning_of_Segmentation_Parameters). South-Eastern European Journal of Earth Observation and Geomatics, vol. 3, pp. 707-712, 2014
+
 
 </details>
