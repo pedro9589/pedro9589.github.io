@@ -10,7 +10,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2025</b></summary>
 
-* Rohrer M, Backhaus J, Bestmann U, De Arriba López V, **Achanccaray P**, Gerke M, et al. [*Experimental studies on multi-scale data-driven methods within the framework of structural health monitoring*](https://onlinelibrary.wiley.com/doi/full/10.1002/cend.202400036). Civil Engineering Design. 2025. DOI:10.1002/cend.202400036
+* R. Lettmoden, **P. M. Achanccaray Diaz**, K. Bittner, M. Gerke. [*MultiGFM: Multi-temporal Framework for Multi-modal Geospatial Foundation Models*](https://www.dgpf.de/src/tagung/jt2025/proceedings/paper/10_3LT2025_Lettmoden_et_al.pdf), Dreiländertagung der DGPF, der OVG und der SGPF, 2025, 182-200.
+* Saba, F., **Achanccaray, P.**, and Gerke, M. [*Land use/Land cover mapping to monitor dead tree areas using multi-modal, multi-temporal Remote Sensing imagery and a deep learning model*](https://meetingorganizer.copernicus.org/EGU25/EGU25-6990.html), EGU General Assembly 2025, Vienna, Austria, EGU25-6990. DOI:10.5194/egusphere-egu25-6990.
+* Rohrer M, Backhaus J, Bestmann U, De Arriba López V, **Achanccaray P**, Gerke M, et al. [*Experimental studies on multi-scale data-driven methods within the framework of structural health monitoring*](https://onlinelibrary.wiley.com/doi/full/10.1002/cend.202400036). Civil Engineering Design. 2025. DOI:10.1002/cend.202400036.
 
 </details>
 <br />
@@ -24,9 +26,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0
 
-* A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024.
+* A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024, 269-278.
 
-* M. Gerke, **P. M. Achanccaray Diaz**, S. Fekete, M. Figge, N. Fohrer, S. Giutronich, P. Keldenich, S. Lutz, M. Perk, A. Reinhardt, C. Richter, C. Rieck, B. Riedel, T. Riedemann, F. Saba, K. Schrader, A. Schröter, D. Szafranski, A. Taghavi, P. Wagner. [*Extremwettermanagement mit digitalen Multiskalen-Methoden: Das EXDIMUM-Projekt*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/19_dgpf2024_Gerke_et_al.pdf),DGPF-Jahrestagung, 2024.
+* M. Gerke, **P. M. Achanccaray Diaz**, S. Fekete, M. Figge, N. Fohrer, S. Giutronich, P. Keldenich, S. Lutz, M. Perk, A. Reinhardt, C. Richter, C. Rieck, B. Riedel, T. Riedemann, F. Saba, K. Schrader, A. Schröter, D. Szafranski, A. Taghavi, P. Wagner. [*Extremwettermanagement mit digitalen Multiskalen-Methoden: Das EXDIMUM-Projekt*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/19_dgpf2024_Gerke_et_al.pdf),DGPF-Jahrestagung, 2024, 279-294.
 
 
 </details>
