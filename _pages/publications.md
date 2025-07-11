@@ -10,6 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2025</b></summary>
 
+* Harb, S., **Achanccaray Diaz, P.**, Maboudi, M., and Gerke, M.: [*Multi-temporal crack segmentation in concrete structures using deep learning approaches*](https://isprs-annals.copernicus.org/articles/X-G-2025/341/2025/), ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X-G-2025, 341–348, DOI:/10.5194/isprs-annals-X-G-2025-341-2025, 2025.
 * R. Lettmoden, **P. M. Achanccaray Diaz**, K. Bittner, M. Gerke. [*MultiGFM: Multi-temporal Framework for Multi-modal Geospatial Foundation Models*](https://www.dgpf.de/src/tagung/jt2025/proceedings/paper/10_3LT2025_Lettmoden_et_al.pdf), Dreiländertagung der DGPF, der OVG und der SGPF, 2025, 182-200.
 * Saba, F., **Achanccaray, P.**, and Gerke, M. [*Land use/Land cover mapping to monitor dead tree areas using multi-modal, multi-temporal Remote Sensing imagery and a deep learning model*](https://meetingorganizer.copernicus.org/EGU25/EGU25-6990.html), EGU General Assembly 2025, Vienna, Austria, EGU25-6990. DOI:10.5194/egusphere-egu25-6990.
 * Rohrer M, Backhaus J, Bestmann U, De Arriba López V, **Achanccaray P**, Gerke M, et al. [*Experimental studies on multi-scale data-driven methods within the framework of structural health monitoring*](https://onlinelibrary.wiley.com/doi/full/10.1002/cend.202400036). Civil Engineering Design. 2025. DOI:10.1002/cend.202400036.
@@ -20,11 +21,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2024</b></summary>
 
-* Harb, S., **Achanccaray, P.**, Maboudi, M., & Gerke, M. (2024). [*Multi-temporal crack segmentation in concrete structure using deep learning approaches*](https://arxiv.org/abs/2411.04620). arXiv preprint arXiv:2411.04620
+* Nyandwi, E., Gerke, M. & **Achanccaray, P**. [*Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of Rwanda*](https://link.springer.com/article/10.1007/s41064-024-00297-9). PFG (2024), DOI:10.1007/s41064-024-00297-9.
 
-* Nyandwi, E., Gerke, M. & **Achanccaray, P**. [*Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of Rwanda*](https://link.springer.com/article/10.1007/s41064-024-00297-9). PFG (2024), DOI:10.1007/s41064-024-00297-9
-
-* Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0
+* Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0.
 
 * A. Alamouri, J. Backhaus, V. De Arriba López, **P. M. Achanccaray Diaz**, M. Gerke. [*High-Resolution Data Capture and Interpretation in Support of Port Infrastructure Maintenance*](https://www.dgpf.de/src/tagung/jt2024/proceedings/paper/18_dgpf2024_Alamouri_et_al.pdf),DGPF-Jahrestagung, 2024, 269-278.
 
