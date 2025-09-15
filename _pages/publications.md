@@ -10,6 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2025</b></summary>
 
+* Nyandwi, E., Gerke, M., **Achanccaray, P.**, & Lessmann, C. (2025). [*Integrating remote sensing and deep learning for mapping urban housing wealth patterns*](https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2543496?scroll=top&needAccess=true). Geo-Spatial Information Science, 1–19. DOI:10.1080/10095020.2025.2543496.
 * Harb, S., **Achanccaray Diaz, P.**, Maboudi, M., and Gerke, M.: [*Multi-temporal crack segmentation in concrete structures using deep learning approaches*](https://isprs-annals.copernicus.org/articles/X-G-2025/341/2025/), ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X-G-2025, 341–348, DOI:/10.5194/isprs-annals-X-G-2025-341-2025, 2025.
 * R. Lettmoden, **P. M. Achanccaray Diaz**, K. Bittner, M. Gerke. [*MultiGFM: Multi-temporal Framework for Multi-modal Geospatial Foundation Models*](https://www.dgpf.de/src/tagung/jt2025/proceedings/paper/10_3LT2025_Lettmoden_et_al.pdf), Dreiländertagung der DGPF, der OVG und der SGPF, 2025, 182-200.
 * Saba, F., **Achanccaray, P.**, and Gerke, M. [*Land use/Land cover mapping to monitor dead tree areas using multi-modal, multi-temporal Remote Sensing imagery and a deep learning model*](https://meetingorganizer.copernicus.org/EGU25/EGU25-6990.html), EGU General Assembly 2025, Vienna, Austria, EGU25-6990. DOI:10.5194/egusphere-egu25-6990.
