@@ -10,6 +10,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <details markdown=1>
 <summary><b>2025</b></summary>
 
+* Mawas, K., Maboudi, M., **Achanccaray, P.**, & Gerke, M. (2025). [*Deep Filament Extraction for 3D Concrete Printing*](https://arxiv.org/abs/2512.00091). arXiv preprint arXiv:2512.00091.
+* Wesche, L.; **Achanccaray, P.**; Hoyer, S.; Unglaub, J.; Knufinke, U.; Gerke, M.; Krafczyk, C.; Thiele, K. (2025) [*Konstruktionstypenvielfalt von Systemhallen in Stahlbauweise zum Ende der Hochmoderne*](https://onlinelibrary.wiley.com/doi/full/10.1002/bate.70026). Bautechnik102, H. 11, S. 645–655. DOI:10.1002/bate.70026
+* Fekete, S.P., **Achanccaray, P.M.**,  Diaz, A., Figge, M., Fohrer, N., Gerke, M., Giutronich, S., Keldenich, P., Lutz, S., Perk, M., Reinhardt, A., Richter, C., Rieck, C., Riedel, B., Riedemann, T., Saba, F., Schrader, K., Schröter, A., Szafranski, D., Taghavi, A., Wagner, P.D., Wallner, T. (2025): [*Wasserwirtschaft im Zeichen von Extremwetter*](https://www.hywa-online.de/wasserwirtschaft-im-zeichen-von-extremwetter-water-management-in-times-of-extreme-weather/). Hydrologie & Wasserbewirtschaftung, 69, (6), 321-336. DOI: 10.5675/HyWa_2025.6_3
+* Wagner, P. D., Saba, F., **Achanccaray, P.**, and Fohrer, N. [*Drought-induced land use and land cover change impacts on hydrology: Insights from the Harz mountains*](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3091/), Germany, EGUsphere [preprint], DOI:10.5194/egusphere-2025-3091, 2025.
 * Nyandwi, E., Gerke, M., **Achanccaray, P.**, & Lessmann, C. (2025). [*Integrating remote sensing and deep learning for mapping urban housing wealth patterns*](https://www.tandfonline.com/doi/full/10.1080/10095020.2025.2543496?scroll=top&needAccess=true). Geo-Spatial Information Science, 1–19. DOI:10.1080/10095020.2025.2543496.
 * Harb, S., **Achanccaray Diaz, P.**, Maboudi, M., and Gerke, M.: [*Multi-temporal crack segmentation in concrete structures using deep learning approaches*](https://isprs-annals.copernicus.org/articles/X-G-2025/341/2025/), ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., X-G-2025, 341–348, DOI:10.5194/isprs-annals-X-G-2025-341-2025, 2025.
 * R. Lettmoden, **P. M. Achanccaray Diaz**, K. Bittner, M. Gerke. [*MultiGFM: Multi-temporal Framework for Multi-modal Geospatial Foundation Models*](https://www.dgpf.de/src/tagung/jt2025/proceedings/paper/10_3LT2025_Lettmoden_et_al.pdf), Dreiländertagung der DGPF, der OVG und der SGPF, 2025, 182-200.
@@ -23,6 +27,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <summary><b>2024</b></summary>
 
 * Nyandwi, E., Gerke, M. & **Achanccaray, P**. [*Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of Rwanda*](https://link.springer.com/article/10.1007/s41064-024-00297-9). PFG (2024), DOI:10.1007/s41064-024-00297-9.
+
+* Mawas, K., Maboudi, M., **Achanccaray, P.**, Gerke, M. [*Filament Extraction for 3D Printing*](https://doi.org/10.24355/dbbs.084-202408151142-0). In: Digital Concrete 2024 - Supplementary Proceedings. Braunschweig (2024)
 
 * Heinrich, A., Mende, V., Wesche, L., & **Achanccaray, P**. (2024). [*Database of recorded serial manufactured MLK-buildings (GDR) (Release 2) [Data set]*](https://doi.org/10.24355/dbbs.084-202403130624-0), DOI:10.24355/dbbs.084-202403130624-0.
 
