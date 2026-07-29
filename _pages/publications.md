@@ -8,6 +8,16 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gfxEXdAAAAAJ&hl=en).
 
 <details markdown=1>
+<summary><b>2026</b></summary>
+
+* **Achanccaray Diaz, P.**, Wesche, L., Gerke, M., Hoyer, S., and Thiele, K. (2026). [*Synthetic data generation for architectural typology documentation using diffusion models*](https://isprs-archives.copernicus.org/articles/XLIX-B2-2026/1381/2026/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIX-B2-2026, 1381–1388, DOI:10.5194/isprs-archives-XLIX-B2-2026-1381-2026.
+
+
+</details>
+<br />
+
+
+<details markdown=1>
 <summary><b>2025</b></summary>
 
 * Mawas, K., Maboudi, M., **Achanccaray, P.**, & Gerke, M. (2025). [*Deep Filament Extraction for 3D Concrete Printing*](https://arxiv.org/abs/2512.00091). arXiv preprint arXiv:2512.00091.
