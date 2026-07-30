@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PFD does not load, you can download it here: [CV](/files/Pedro%20Achanccaray%20CV.pdf)
+If the embedded PDF does not load, you can download it here: [CV](/files/Pedro%20Achanccaray%20CV.pdf)
 
 <embed src="/files/Pedro%20Achanccaray%20CV.pdf" type="application/pdf" width="100%">
