@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <summary><b>2026</b></summary>
 
 * **Achanccaray Diaz, P.**, Wesche, L., Gerke, M., Hoyer, S., and Thiele, K. (2026). [*Synthetic data generation for architectural typology documentation using diffusion models*](https://isprs-archives.copernicus.org/articles/XLIX-B2-2026/1381/2026/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIX-B2-2026, 1381–1388, DOI:10.5194/isprs-archives-XLIX-B2-2026-1381-2026.
-
+* Saba, F., **Achanccaray Diaz, P.**, and Gerke, M. (2026). [*Assessment of Different Architectures based on 2D-UNet, 3D-UNet and UNet-ConvLSTM for Land Use Land Cover Classification Using Multi-modal and Multi-temporal Satellite Images*](https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/651/2026/), Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIX-B3-2026, 651–659, DOI:10.5194/isprs-archives-XLIX-B3-2026-651-2026.
 
 </details>
 <br />
